@@ -4,6 +4,7 @@
 
 Dataset ini berisi 50 dokumen putusan pengadilan dari **Pengadilan Negeri Medan** dengan klasifikasi **Pidana Khusus - Narkotika dan Psikotropika** tahun **2024 dan 2025**.  
 Dataset ini dikumpulkan secara manual dari situs resmi **Direktori Putusan Mahkamah Agung RI**
+
 URL sumber: [https://putusan3.mahkamahagung.go.id/direktori.html](https://putusan3.mahkamahagung.go.id/direktori.html)
 
 
