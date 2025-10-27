@@ -18,7 +18,6 @@ URL sumber: [https://putusan3.mahkamahagung.go.id/direktori.html](https://putusa
 | **Jenis Kasus**       | Penyalahgunaan dan peredaran narkotika                          |
 | **Format Data**       | Dokumen teks (hasil ekstraksi dari .pdf atau .html)             |
 | **Jumlah Data**       | 50 putusan         |
-| **Bahasa**            | Bahasa Indonesia                                                |
 | **Status Putusan**    | Tidak menggunakan putusan *berkekuatan hukum tetap*             |
 
 Deskripsi File Utama
