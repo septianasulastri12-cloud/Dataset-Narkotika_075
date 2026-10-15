@@ -1,4 +1,4 @@
-# Septiana Sulastri- #
+
 
 # Dataset Narkotika - PN Medan
 
